@@ -60,4 +60,5 @@ Once you are done coding the changes, commit the files and create a PR. Click on
 ```Step 4: Ensuring code quality```: 
 Once a PR has been created, check if it can be merged without any issues. If there are any issues, repeat from ```Step 2```. Wait for a reviewer to cross check your changes, and then merge your changes.
 
+You can have a look this [**web page**](https://egghead.io/lessons/javascript-how-to-fork-and-clone-a-github-repository) to know how to Clone, Fork and edit the project on a local respository. 
 Keep contributing!
